@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\thuattoanMin\thuattoanMin\bin\Debug\thuattoanMin.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\thuattoanMin\thuattoanMin\bin\Debug\thuattoanMin.exe
+c:\users\admin\documents\visual studio 2015\Projects\thuattoanMin\thuattoanMin\bin\Debug\thuattoanMin.pdb
+c:\users\admin\documents\visual studio 2015\Projects\thuattoanMin\thuattoanMin\obj\Debug\thuattoanMin.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\thuattoanMin\thuattoanMin\obj\Debug\thuattoanMin.exe
+c:\users\admin\documents\visual studio 2015\Projects\thuattoanMin\thuattoanMin\obj\Debug\thuattoanMin.pdb
